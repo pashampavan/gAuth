@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github.io/gAuth/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/gAuth/static/js/main.2b9949a6.js",
-    "static/js/787.e5ea0a06.chunk.js": "/github.io/gAuth/static/js/787.e5ea0a06.chunk.js",
+    "main.js": "/github.io/gAuth/static/js/main.d7a86644.js",
+    "static/js/787.28cb0dcd.chunk.js": "/github.io/gAuth/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/github.io/gAuth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github.io/gAuth/index.html",
     "main.073c9b0a.css.map": "/github.io/gAuth/static/css/main.073c9b0a.css.map",
-    "main.2b9949a6.js.map": "/github.io/gAuth/static/js/main.2b9949a6.js.map",
-    "787.e5ea0a06.chunk.js.map": "/github.io/gAuth/static/js/787.e5ea0a06.chunk.js.map"
+    "main.d7a86644.js.map": "/github.io/gAuth/static/js/main.d7a86644.js.map",
+    "787.28cb0dcd.chunk.js.map": "/github.io/gAuth/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2b9949a6.js"
+    "static/js/main.d7a86644.js"
   ]
 }
