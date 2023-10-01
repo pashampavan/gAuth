@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/gAuth/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/gAuth/static/js/main.d8d75c37.js",
-    "static/js/787.28cb0dcd.chunk.js": "/github.io/gAuth/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/github.io/gAuth/index.html",
-    "main.073c9b0a.css.map": "/github.io/gAuth/static/css/main.073c9b0a.css.map",
-    "main.d8d75c37.js.map": "/github.io/gAuth/static/js/main.d8d75c37.js.map",
-    "787.28cb0dcd.chunk.js.map": "/github.io/gAuth/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/gAuth/static/css/main.e6c13ad2.css",
+    "main.js": "/gAuth/static/js/main.2ee4c96c.js",
+    "static/js/787.e5ea0a06.chunk.js": "/gAuth/static/js/787.e5ea0a06.chunk.js",
+    "index.html": "/gAuth/index.html",
+    "main.e6c13ad2.css.map": "/gAuth/static/css/main.e6c13ad2.css.map",
+    "main.2ee4c96c.js.map": "/gAuth/static/js/main.2ee4c96c.js.map",
+    "787.e5ea0a06.chunk.js.map": "/gAuth/static/js/787.e5ea0a06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d8d75c37.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ee4c96c.js"
   ]
 }
